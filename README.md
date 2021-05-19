@@ -1,16 +1,13 @@
-### Hi there 👋
+![ViewCount](https://views.whatilearened.today/views/github/gabrielandrade709/views.svg)
 
-<!--
-**gabrielandrade709/gabrielandrade709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-andrade-911918184/) [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gabrielandrade709.ga@gmail.com)](mailto:guilhermereis9876@gmail.com) [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/andrade.tsx/)](https://www.instagram.com/andrade.tsx/) [![Badge](https://img.shields.io/badge/Blog-Rocketseat-%237159c1?style=for-the-badge&logo=ghost&link=https://app.rocketseat.com.br/me/andrade)](https://app.rocketseat.com.br/me/andrade)
 
-Here are some ideas to get you started:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gabrielandrade709&theme=dracula&background=282A36&border=44475A&fire=FF5555&stroke=BD93F9&ring=BD93F9&currStreakNum=6272A4&sideNums=6272A4&currStreakLabel=FF5556&sideLabels=FF5555&dates=F8F8F2)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21"> My name is Gabriel Andrade, I currently work as a developer!
+### 🏢 Development intern at EloGroup
+### 🎓 Graduated in I.T technician by SENAI
+### 📚 Studying Information Systems at Centro Universitário Estácio
+### 💬 Any doubts I am available
+
