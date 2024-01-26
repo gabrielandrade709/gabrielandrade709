@@ -7,7 +7,7 @@
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21"> My name is Gabriel Andrade, I currently work as a developer!
 ### 🏢 Developer at EloGroup
+### 🎓 Graduated in Information Systems at Centro Universitário Estácio
 ### 🎓 Graduated in I.T technician by SENAI
-### 📚 Studying Information Systems at Centro Universitário Estácio
 ### 💬 Any doubts I am available
 
